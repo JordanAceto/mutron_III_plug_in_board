@@ -305,7 +305,7 @@ U 1 1 5D1C1274
 P 2850 7400
 F 0 "RV1" H 2780 7354 50  0000 R CNN
 F 1 "10k" V 2850 7450 50  0000 R CNN
-F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 2850 7400 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 2850 7400 50  0001 C CNN
 F 3 "~" H 2850 7400 50  0001 C CNN
 	1    2850 7400
 	1    0    0    1   
@@ -316,7 +316,7 @@ U 1 1 5D1C5E3B
 P 3200 8200
 F 0 "RV2" V 3085 8200 50  0000 C CNN
 F 1 "100k" V 3200 8200 50  0000 C CNN
-F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 3200 8200 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 3200 8200 50  0001 C CNN
 F 3 "~" H 3200 8200 50  0001 C CNN
 	1    3200 8200
 	0    -1   -1   0   
@@ -958,10 +958,10 @@ U 1 1 5D38200F
 P 9500 6500
 F 0 "RV3" V 9385 6500 50  0000 C CNN
 F 1 "100k" V 9500 6500 50  0000 C CNN
-F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 9500 6500 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 9500 6500 50  0001 C CNN
 F 3 "~" H 9500 6500 50  0001 C CNN
 	1    9500 6500
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L Device:R R21
