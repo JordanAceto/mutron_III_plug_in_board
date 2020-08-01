@@ -1,0 +1,2 @@
+# NOTE: development of all VCF plug-in boards has been moved here https://github.com/JordanAceto/VCF_plug_in_boards
+### This repo will no longer be updated. Follow the above link for the most current files.
